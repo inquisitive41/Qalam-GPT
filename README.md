@@ -1,18 +1,13 @@
 # Qalam GPT - Industrial LLM Platform
 
-[![Version](https://img.shields.io/pypi/v/qalam-gpt.svg)](https://pypi.org/project/qalam-gpt/)
-[![License](https://img.shields.io/github/license/qalam-gpt/qalam-gpt.svg)](https://github.com/qalam-gpt/qalam-gpt/blob/main/LICENSE)
-[![Python](https://img.shields.io/pypi/pyversions/qalam-gpt.svg)](https://pypi.org/project/qalam-gpt/)
-[![Status](https://img.shields.io/pypi/status/qalam-gpt.svg)](https://pypi.org/project/qalam-gpt/)
-
 ## 🚀 Overview
 
-**Qalam GPT** is an industrial-grade Large Language Model platform built with mathematical rigor and production readiness in mind. The system implements a complete transformer-based architecture with innovative GF(19) mathematical verification for enhanced reliability and security.
+**Qalam GPT** is an industrial-grade Large Language Model platform built with mathematical rigor and production readiness in mind. The system implements a complete transformer-based architecture with innovative mathematical verification for enhanced reliability and security.
 
 ## 🌟 Key Features
 
 ### 🔐 Advanced Security & Verification
-- **GF(19) Mathematical Verification**: Innovative verification system for tensor integrity
+- **Mathematical Verification**: Innovative verification system for tensor integrity
 - **Comprehensive Security**: Input sanitization, buffer overflow protection, model integrity checks
 - **Production-Ready**: Industrial-grade security measures implemented throughout
 
@@ -190,10 +185,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏷️ Keywords
 
-llm, gpt, transformer, nlp, machine-learning, artificial-intelligence, deep-learning, neural-networks, language-model, mathematical-verification, gf19
+llm, gpt, transformer, nlp, machine-learning, artificial-intelligence, deep-learning, neural-networks, language-model, mathematical-verification, 
 
 ---
 
 *Qalam GPT - Industrial-strength language modeling with mathematical precision and security.*
+
 
 **Version**: 1.0.0 | **Status**: Production Ready
